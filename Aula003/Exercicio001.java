@@ -11,7 +11,7 @@ public class Exercicio001 {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Quantos alunos tem na sua sala?");
 		alunos = sc.nextInt();
-		System.out.println("\nDigite a nota dos alunos: ");
+		System.out.println("\nDigite as notas dos alunos: ");
 		
 		while (cont < alunos) {
 			nota = sc.nextDouble();
