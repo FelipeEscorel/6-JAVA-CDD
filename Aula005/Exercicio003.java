@@ -1,4 +1,4 @@
-package cddAula005;
+package Aula005;
 
 public class Exercicio003 {
 
