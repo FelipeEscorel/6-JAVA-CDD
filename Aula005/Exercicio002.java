@@ -1,4 +1,4 @@
-package cddAula005;
+package Aula005;
 
 import java.util.Scanner;
 import java.util.StringTokenizer;
